@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Mayandev/Mayandev** is SSS ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## 视觉项目
 
----
-
 1.基于PyTorch实现的ResNet50的动物分类项目
-
 2.待续
+
+## 系列教程
+1.
 
