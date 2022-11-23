@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=stupid-boy)
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=stupid-boy&theme=dark)
 
+## 视觉项目
+
+---
+
+1.基于PyTorch实现的ResNet50的动物分类项目
+
+2.待续
 
