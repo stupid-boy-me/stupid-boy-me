@@ -73,7 +73,10 @@
 <br/>  
 
 ![Visitor Count](https://profile-counter.glitch.me/stupid-boy-me/count.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stupid-boy-me&layout=compact)](https://github.com/stupid-boy-me/github-readme-stats)
+
+![stupid-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=stupid-boy-me&show_icons=true&theme=tokyonight)
 
 ## 视觉项目
 
