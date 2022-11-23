@@ -72,7 +72,7 @@
 
 <br/>  
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/stupid-boy-me/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stupid-boy-me&layout=compact)](https://github.com/stupid-boy-me/github-readme-stats)
 
 ## 视觉项目
