@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=stupid-boy&theme=dark)
 
+![Visitor Count](https://profile-counter.glitch.me/stupid-boy-me/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stupid-boy-me)](https://github.com/stupid-boy-me/github-readme-stats)
+
 ## 视觉项目
 
 1.基于PyTorch实现的ResNet50的动物分类项目
